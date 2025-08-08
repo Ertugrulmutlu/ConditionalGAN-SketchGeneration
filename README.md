@@ -11,7 +11,7 @@ Welcome to this Conditional GAN (cGAN) project! This repo contains all the code,
 
 For consistency in the sketch domain, I also referenced the **ClassifySketch** project from TU Berlin by Eitz et al.—a seminal study in sketch recognition using 250 object categories and human-measured accuracy benchmarks.  
 This provided inspiring background on sketch classification challenges. Explore the original research here:  
-[ClassifySketch – TU Berlin (Eitz et al.)](/cybertron.cg.tu-berlin.de/eitz/projects/classifysketch) :contentReference[oaicite:1]{index=1}
+[ClassifySketch – TU Berlin (Eitz et al.)](/cybertron.cg.tu-berlin.de/eitz/projects/classifysketch)
 
 ---
 ## 📁 Project Structure
